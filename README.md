@@ -1,4 +1,4 @@
-# Nexus Decentralized Lottery 🎰
+# Nexus Decentralized Lottery 
 
 A fully decentralized, provably fair lottery application built on Ethereum Sepolia Testnet. This project utilizes **Chainlink VRF V2.5** (Verifiable Random Function) to guarantee tamper-proof randomness for winner selection, ensuring complete fairness and transparency.
 
